@@ -19,7 +19,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 import lombok.extern.java.Log;
 
-@Log
+
 public class kakao {
 	
 	
